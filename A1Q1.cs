@@ -1,3 +1,4 @@
+//testing2
 /* Dustin Short: Assignment 1, question 1: The goal of this program is to get accustome to useing C#. Also to demonstrait the task of reading an input from the user, doing something with it, and then writting an output to the screen. */
 using System;
 
